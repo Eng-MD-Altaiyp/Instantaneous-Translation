@@ -1,0 +1,1 @@
+flutter run --dart-define=GEMINI_API_KEY=AIzaSyDk0kU3SB-9dPK3LH40DrJvKSx_29b76z4
