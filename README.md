@@ -10,6 +10,16 @@ A Flutter application for instantaneous text translation using Google Gemini API
 
 This application was developed as a practical and illustrative example demonstrating how to integrate and utilize Generative AI models, specifically the Google Gemini API, within a mobile application built using Flutter. The project aims to help developers understand the basic workflow of interacting with APIs like Gemini for text processing and translation tasks.
 
+## Screenshots
+
+![Screenshot 1](ui/Screenshot_٢٠٢٥٠٦٢٧-٢٢٥٤٣١.jpg)
+
+![Screenshot 2](ui/Screenshot_٢٠٢٥٠٦٢٧-٢٢٥٤٤٥.jpg)
+
+![Screenshot 3](ui/Screenshot_٢٠٢٥٠٦٢٧-٢٢٥٤٥٧.jpg)
+
+![Screenshot 4](ui/Screenshot_٢٠٢٥٠٦٢٧-٢٢٥٥٠٤.jpg)
+
 ## Prerequisites
 
 Before running this application, ensure you have the following installed and set up:
